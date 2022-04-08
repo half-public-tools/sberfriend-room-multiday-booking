@@ -1,0 +1,10 @@
+{
+    "typeAcquisition": {
+        "include": [
+            "jquery",
+            "moment",
+            "xhook",
+            "arrive"
+        ]
+    }
+}
