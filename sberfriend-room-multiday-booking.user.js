@@ -1,9 +1,12 @@
 // ==UserScript==
 // @name         SberFriend room multiday booking
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  Allows for booking conference rooms for repeating events
 // @author       Ilya Nikishin <ianikishin@sberbank.ru>
+// @downloadURL  https://github.com/half-public-tools/sberfriend-room-multiday-booking/raw/master/sberfriend-room-multiday-booking.user.js
+// @updateURL    https://github.com/half-public-tools/sberfriend-room-multiday-booking/raw/master/sberfriend-room-multiday-booking.user.js
+// @icon         https://github.com/half-public-tools/sberfriend-room-multiday-booking/raw/master/Icon.png
 // @match        https://sberfriend.sbrf.ru/sberfriend/*
 // @grant        none
 // @require      https://code.jquery.com/jquery-3.6.0.min.js
